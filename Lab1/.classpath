@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_201"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Hibernate Jars 5.0.12/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/antlr-2.7.7 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/byte-buddy-1.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/jandex-2.0.5.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/jboss-logging-3.4.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/slf4j-api-2.0.0-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RajPatel/Downloads/JARS-main/JARS-main/FINAL JAR HIbernate/txw2-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
